@@ -1,4 +1,4 @@
-# Hi, I'm Kliment 👋
+# Hi, I'm Kliment 
 
 🎓 Computer Science student at FCSE — Skopje (FINKI)  
 💡 Interested in **Software Development**, **Data Science**, and **Machine Learning**  
