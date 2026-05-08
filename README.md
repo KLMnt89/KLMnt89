@@ -1,35 +1,28 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a1a,100:2d5a27&height=200&section=header&text=Kliment%20Stavreski&fontSize=50&fontColor=7fff7f&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%40%20FINKI%20%7C%20Software%20Dev%20%C2%B7%20Data%20Science%20%C2%B7%20ML&descAlignY=58&descSize=16&descColor=88cc88"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b0d,100:0d1117&height=180&section=header&text=Kliment%20Stavreski&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%40%20FINKI%20%E2%80%A2%20Software%20Dev%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML&descAlignY=62&descSize=14&descColor=7fff7f"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Building+things+that+work.;Learning+things+that+matter.;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;Data+Engineering+%7C+Machine+Learning;Always+shipping%2C+always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%24+building+things+that+work;%24+learning+things+that+matter;%24+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
----
-
-<!-- ABOUT -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<br/>
 
 ### `> whoami`
 
 ```yaml
 name:        Kliment Stavreski
 alias:       KLMnt89
-location:    Skopje, North Macedonia
+location:    Skopje / Ohrid, North Macedonia
 university:  FCSE — Skopje (FINKI)
-year:        3rd year CS
+year:        3rd year, Computer Science
 focus:
   - Software Development
-  - Data Science & ML
+  - Data Science & Machine Learning
   - Backend Engineering
   - DevOps & CI/CD
 status:      Open to opportunities 🟢
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -37,42 +30,29 @@ status:      Open to opportunities 🟢
 
 <div align="center">
 
-**Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Data & ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Databases**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 <div align="center">
 
@@ -90,25 +70,22 @@ status:      Open to opportunities 🟢
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KLMnt89&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLMnt89&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KLMnt89&theme=github-compact&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KLMnt89&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5a27,50:1a2a1a,100:0d1117&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b0d,100:0d1117&height=100&section=footer"/>
 </div>
