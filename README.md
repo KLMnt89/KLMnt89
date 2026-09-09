@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b0d,100:0d1117&height=180&section=header&text=Kliment%20Stavreski&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%E2%80%A2%20FCSE%20Skopje%20%E2%80%A2%20Software%20Dev%20%E2%80%A2%20Data%20Science&descAlignY=62&descSize=14&descColor=7fff7f"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b0d,100:0d1117&height=180&section=header&text=Kliment%20Stavreski&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20FCSE%20Skopje&descAlignY=62&descSize=16&descColor=7fff7f"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Computer+Science+%40+FCSE+Skopje;Backend+%7C+Data+Science+%7C+Machine+Learning;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;DevOps+%7C+Docker+%7C+CI%2FCD;Adobe+Experience+Manager+%7C+CMS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=7FFF7F&center=true&vCenter=true&width=600&lines=Backend+%7C+Data+Science+%7C+Machine+Learning;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;DevOps+%7C+Docker+%7C+CI%2FCD;Adobe+Experience+Manager+%7C+CMS)](https://git.io/typing-svg)
 
 </div>
 
