@@ -11,18 +11,19 @@
 ### `> whoami`
 
 ```yaml
-name:        Kliment Stavreski
-alias:       KLMnt89
-location:    Skopje / Ohrid, North Macedonia
-university:  Faculty of Computer Science and Engineering (FCSE) — Skopje
-degree:      B.Sc. Computer Science, 3rd year
+name:       Kliment Stavreski
+alias:      KLMnt89
+location:   Skopje / Ohrid, North Macedonia
+university: Faculty of Computer Science and Engineering (FCSE), Skopje
+degree:     B.Sc. Computer Science, 3rd year
+working:    VASS North Macedonia, Software Developer
 focus:
-  - Software Development
-  - Data Science & Machine Learning
-  - Backend Engineering
-  - DevOps & CI/CD
-  - CMS Development (Adobe Experience Manager)
-status:      Open to opportunities 🟢
+- Software Development
+- Data Science & Machine Learning
+- Backend Engineering
+- DevOps & CI/CD
+- CMS Development (Adobe Experience Manager)
+status: Open to opportunities 🟢
 ```
 
 ---
@@ -61,10 +62,10 @@ status:      Open to opportunities 🟢
 | Project | Description | Tech |
 |:--|:--|:--|
 | [🔬 Watershed Cell Segmentation](https://github.com/KLMnt89/Watershed-cell-segmentation) | Image segmentation using the Watershed algorithm for biological cell detection | Python, OpenCV |
-| [🌐 Web Programming — Spring Boot](https://github.com/KLMnt89/Web-Programming-SpringBoot) | Full-stack web apps — exam solutions and course projects | Java, Spring Boot |
-| [🤖 Artificial Intelligence](https://github.com/KLMnt89/Artificial-Intelligence) | AI course assignments — search, ML, optimization | Python |
+| [🌐 Web Programming (Spring Boot)](https://github.com/KLMnt89/Web-Programming-SpringBoot) | Full-stack web apps, exam solutions and course projects | Java, Spring Boot |
+| [🤖 Artificial Intelligence](https://github.com/KLMnt89/Artificial-Intelligence) | AI course assignments, search, ML, optimization | Python |
 | [📊 Algorithms & Data Structures](https://github.com/KLMnt89/Algorithms-and-data-structures) | DSA implementations: DP, Graphs, Trees, Hash, Stack | Java |
-| [💻 Advanced Programming — Java](https://github.com/KLMnt89/Advanced-Programming-java) | Exercises, labs and exam prep for Advanced Programming | Java |
+| [💻 Advanced Programming (Java)](https://github.com/KLMnt89/Advanced-Programming-java) | Exercises, labs and exam prep for Advanced Programming | Java |
 | [🖥️ Client-Side Web Programming](https://github.com/KLMnt89/client-side-web-programming) | JavaScript exercises for the frontend web course | JavaScript |
 | [⚡ Hybrid MPI-OpenMP Classifier](https://github.com/KLMnt89/hybrid-mpi-openmp-sensitivity-classifier) | Parallel file sensitivity classification using MPI + OpenMP | Python |
 
@@ -76,15 +77,13 @@ status:      Open to opportunities 🟢
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KLMnt89&theme=github-compact&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KLMnt89/KLMnt89/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 ---
 
